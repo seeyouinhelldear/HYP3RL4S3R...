@@ -9,4 +9,5 @@ https://en.pronouns.page/@seeyou.inhell._
 
 Enjoy your stay here, talking to me is not difficult, I'm a great listener.
 <!-- Replace with your generated code snippet -->
-<img src="https://spotify-github-profile.vercel.app/api/nowplaying?username=HYPERLASER . . . .&show_offline=false" alt="Now Playing">
+<img src="https://spotify-github-profile.vercel.app/api/nowplaying?username=HYPERLASER . . . .&show_offline=false" alt="Now Playing">[
+](https://open.spotify.com/track/5yoQaOHlouZGdlBRP4AYyx?si=4bfe8391b4b14563)
